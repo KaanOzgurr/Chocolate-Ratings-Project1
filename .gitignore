@@ -1,0 +1,19 @@
+#Python tarafından oluşturulan geçici dosyalar
+__pycache__/
+*.py[cod]
+.$py.class
+
+# Sanal Ortam 
+
+venv/
+env/
+
+# VS Code Ayarları
+.vscode/
+
+# İşletim Sistemi Dosyaları
+.DS_Store
+Thumbs.db
+
+
+
