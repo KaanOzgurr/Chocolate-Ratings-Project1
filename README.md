@@ -63,3 +63,18 @@ Version Control: Git & GitHub
 Model,                    Mean Squared Error (MSE),              R² Score
 Linear Regression,               0.2099,                          -0.0109
 Random Forest,                   0.2110,                          -0.0165
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This dataset was sourced from Kaggle ( https://www.kaggle.com/datasets/andrewmvd/chocolate-ratings ) 
