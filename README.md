@@ -76,5 +76,9 @@ Random Forest,                   0.2110,                          -0.0165
 
 
 
+## Dataset
+This project uses a dataset originally published on Kaggle.
+License: CC0 (Public Domain)
 
+Although attribution is not required, the original source is acknowledged for transparency.
 This dataset was sourced from Kaggle ( https://www.kaggle.com/datasets/andrewmvd/chocolate-ratings ) 
