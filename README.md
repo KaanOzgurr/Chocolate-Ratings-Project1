@@ -16,23 +16,35 @@ Feature Selection: Used Recursive Feature Elimination (RFE) to quantify the impa
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 🔍 Visual Insights & Analysis
 
 1. Feature Correlations
 
-The heatmap reveals a weak negative correlation (-0.15) between Cocoa Percent and Rating. This suggests that "darker" is not always better for expert scores. ![Correlation Matrix] (./ÇIKTI 1.png)
+The heatmap reveals a weak negative correlation (-0.15) between Cocoa Percent and Rating. This suggests that "darker" is not always better for expert scores. ![Correlation Matrix]  (./Correlation Matrix.png)
 
 2. Rating Distribution
 
-Expert ratings follow a Left-Skewed Distribution, peaking at the 3.0 - 3.5 range. Scores below 2.0 or at a perfect 5.0 are statistical outliers. ![Rating Distribution](./ÇIKTI 3.png)
+Expert ratings follow a Left-Skewed Distribution, peaking at the 3.0 - 3.5 range. Scores below 2.0 or at a perfect 5.0 are statistical outliers. ![Rating Distribution]   (./Rating Distribution.png)
 
 3. Feature Importance
 
-The Random Forest model identifies the Manufacturer (Company) as the most significant predictor of the final rating, followed by the Bean Origin. ![Feature Importance](./ÇIKTI 2.png)
+The Random Forest model identifies the Manufacturer (Company) as the most significant predictor of the final rating, followed by the Bean Origin. ![Feature Importance]   (./Feature Importance 2.png)
 
 4. Top Performing Manufacturers
 
-The analysis highlights top-tier companies, such as Pralus and Ocelot, which consistently achieve higher average ratings compared to others in the dataset. ![Top Companies](./ÇIKTI 6.png)
+The analysis highlights top-tier companies, such as Pralus and Ocelot, which consistently achieve higher average ratings compared to others in the dataset. ![Top Companies]   (./Top Companies.png)
 
 
 
